@@ -1,3 +1,2 @@
-Laboratorijske vježbe iz Objektno Orijentiranog Programiranje SOSS 2025/2026 - 3. Semestar Preddiplomski studiji Računalstva
-
+Sve vježbe se nalaze u master branchu
 -Roko Vučičić
